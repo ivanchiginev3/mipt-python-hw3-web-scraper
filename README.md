@@ -24,5 +24,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <url-репозитория>
+git clone https://github.com/ivanchiginev3/mipt-python-hw3-web-scraper
 cd books_scraper
