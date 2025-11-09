@@ -1,0 +1,25 @@
+# Windows Zone.Identifier
+*:Zone.Identifier
+**/*:Zone.Identifier
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Coverage reports
+.coverage
+htmlcov/
+.coverage.*
+coverage.xml

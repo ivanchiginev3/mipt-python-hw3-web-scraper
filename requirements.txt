@@ -1,0 +1,6 @@
+requests==2.31.0
+beautifulsoup4==4.14.2
+tqdm==4.66.1
+schedule==1.2.0
+pytest==7.4.3
+jupyter==1.1.0
